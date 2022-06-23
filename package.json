@@ -3,13 +3,13 @@
         "rounded-corners.js",
         "LICENSE"
     ],
-    "name": "rounded-corners-fixed-negative",
+    "name": "highcharts-rounded-corners-fixed-negative",
     "version": "1.0.0",
     "description": "This plugin is based on rounded-corners plugin that allows individually rounded corners in columns and bars. It switches the top and bottom corners when the value is negative.",
     "main": "rounded-corners.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/WetCouch/rounded-corners-fixed-negative.git"
+        "url": "git+https://github.com/WetCouch/highcharts-rounded-corners-fixed-negative.git"
     },
     "keywords": [
         "corners",
@@ -28,9 +28,9 @@
     }],
     "license" : "MIT <LICENSE>",
     "bugs": {
-        "url": "https://github.com/WetCouch/rounded-corners-fixed-negative/issues"
+        "url": "https://github.com/WetCouch/highcharts-rounded-corners-fixed-negative/issues"
     },
-    "homepage": "https://github.com/WetCouch/rounded-corners-fixed-negative#readme",
+    "homepage": "https://github.com/WetCouch/highcharts-rounded-corners-fixed-negative#readme",
     "dependencies": {
         "highcharts": ">=3.0.0"
     }
