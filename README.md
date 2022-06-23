@@ -1,4 +1,4 @@
-Fixed rounded corners
+Fixed highcharts rounded corners
 ===============
 This plugin is a fork from Highcharts' [Rounded Corners](https://github.com/highcharts/rounded-corners) Plugin,
 and it's main purpose is changing the behavior of column's corners when the value is negative, to reverse the top and bottom corners and make the column appear as if it was upside-down.
